@@ -1,0 +1,506 @@
+ticker,sector,label,ticker_id,sector_id
+0700.HK,Communication Services,test,0,0
+9988.HK,Consumer Discretionary,test,1,1
+GOOG,Communication Services,test,213,0
+JPM,Financials,test,263,4
+MSFT,Information Technology,test,321,7
+VWAGY,Consumer Discretionary,test,478,1
+XOM,Energy,test,498,3
+AAPL,Information Technology,train,3,7
+ABBV,Health Care,train,4,5
+ABNB,Consumer Discretionary,train,5,1
+ABT,Health Care,train,6,5
+ACGL,Financials,train,7,4
+ACN,Information Technology,train,8,7
+ADBE,Information Technology,train,9,7
+ADI,Information Technology,train,10,7
+ADM,Consumer Staples,train,11,2
+ADP,Industrials,train,12,6
+ADSK,Information Technology,train,13,7
+AEE,Utilities,train,14,10
+AEP,Utilities,train,15,10
+AES,Utilities,train,16,10
+AFL,Financials,train,17,4
+AIG,Financials,train,18,4
+AIZ,Financials,train,19,4
+AJG,Financials,val,20,4
+AKAM,Information Technology,train,21,7
+ALGN,Health Care,train,23,5
+ALL,Financials,train,24,4
+ALLE,Industrials,train,25,6
+AMAT,Information Technology,train,26,7
+AMCR,Materials,train,27,8
+AMD,Information Technology,train,28,7
+AME,Industrials,train,29,6
+AMGN,Health Care,train,30,5
+AMP,Financials,train,31,4
+AMT,Real Estate,train,32,9
+AMZN,Consumer Discretionary,val,33,1
+ANET,Information Technology,train,34,7
+AOS,Industrials,train,36,6
+APA,Energy,train,37,3
+APD,Materials,train,38,8
+APH,Information Technology,train,39,7
+APO,Financials,val,40,4
+APP,Information Technology,train,41,7
+ARE,Real Estate,train,43,9
+ARES,Financials,train,44,4
+ATO,Utilities,val,45,10
+AVB,Real Estate,val,46,9
+AWK,Utilities,train,49,10
+AXON,Industrials,train,50,6
+AXP,Financials,val,51,4
+AZO,Consumer Discretionary,train,52,1
+BAC,Financials,train,54,4
+BAX,Health Care,train,56,5
+BDX,Health Care,train,58,5
+BEN,Financials,train,59,4
+BF-B,Consumer Staples,train,60,2
+BG,Consumer Staples,val,61,2
+BIIB,Health Care,train,62,5
+BKNG,Consumer Discretionary,train,64,1
+BKR,Energy,train,65,3
+BLDR,Industrials,train,66,6
+BLK,Financials,train,67,4
+BMY,Health Care,train,68,5
+BR,Industrials,train,69,6
+BRK-B,Financials,train,70,4
+BRO,Financials,train,71,4
+BSX,Health Care,train,72,5
+BX,Financials,train,73,4
+BXP,Real Estate,train,74,9
+C,Financials,train,75,4
+CAG,Consumer Staples,train,76,2
+CAH,Health Care,train,77,5
+CARR,Industrials,train,78,6
+CAT,Industrials,train,79,6
+CB,Financials,val,80,4
+CBOE,Financials,train,81,4
+CCI,Real Estate,val,83,9
+CCL,Consumer Discretionary,train,84,1
+CDW,Information Technology,train,86,7
+CEG,Utilities,train,87,10
+CF,Materials,train,88,8
+CFG,Financials,train,89,4
+CHD,Consumer Staples,train,90,2
+CHRW,Industrials,val,91,6
+CHTR,Communication Services,train,92,0
+CINF,Financials,train,94,4
+CL,Consumer Staples,train,95,2
+CLX,Consumer Staples,val,96,2
+CMCSA,Communication Services,train,97,0
+CMG,Consumer Discretionary,train,99,1
+CMI,Industrials,val,100,6
+CMS,Utilities,train,101,10
+CNP,Utilities,train,103,10
+COF,Financials,train,104,4
+COIN,Financials,train,105,4
+COO,Health Care,train,106,5
+COP,Energy,train,107,3
+COR,Health Care,val,108,5
+CPAY,Financials,train,110,4
+CPB,Consumer Staples,train,111,2
+CPRT,Industrials,train,112,6
+CPT,Real Estate,train,113,9
+CRH,Materials,train,114,8
+CRL,Health Care,val,115,5
+CRM,Information Technology,train,116,7
+CRWD,Information Technology,train,117,7
+CSCO,Information Technology,train,118,7
+CSGP,Real Estate,train,119,9
+CSX,Industrials,val,120,6
+CTAS,Industrials,train,121,6
+CTRA,Energy,train,122,3
+CTSH,Information Technology,train,123,7
+CTVA,Materials,train,124,8
+CVNA,Consumer Discretionary,train,125,1
+CVX,Energy,train,127,3
+D,Utilities,train,128,10
+DAL,Industrials,train,129,6
+DASH,Consumer Discretionary,train,130,1
+DAY,Industrials,train,131,6
+DD,Materials,train,132,8
+DE,Industrials,train,134,6
+DECK,Consumer Discretionary,val,135,1
+DELL,Information Technology,train,136,7
+DGX,Health Care,train,138,5
+DHI,Consumer Discretionary,train,139,1
+DHR,Health Care,train,140,5
+DIS,Communication Services,train,141,0
+DLR,Real Estate,train,142,9
+DLTR,Consumer Staples,train,143,2
+DOC,Real Estate,val,144,9
+DOV,Industrials,val,145,6
+DPZ,Consumer Discretionary,train,147,1
+DRI,Consumer Discretionary,train,148,1
+DTE,Utilities,train,149,10
+DUK,Utilities,val,150,10
+DVA,Health Care,train,151,5
+DVN,Energy,train,152,3
+DXCM,Health Care,train,153,5
+EBAY,Consumer Discretionary,train,155,1
+ECL,Materials,train,156,8
+ED,Utilities,train,157,10
+EG,Financials,train,159,4
+EIX,Utilities,train,160,10
+EL,Consumer Staples,train,161,2
+ELV,Health Care,train,162,5
+EME,Industrials,train,163,6
+EMR,Industrials,val,164,6
+EOG,Energy,train,165,3
+EQIX,Real Estate,train,167,9
+EQT,Energy,train,169,3
+ES,Utilities,val,171,10
+ESS,Real Estate,train,172,9
+ETR,Utilities,val,174,10
+EVRG,Utilities,train,175,10
+EW,Health Care,train,176,5
+EXC,Utilities,train,177,10
+EXE,Energy,val,178,3
+EXPD,Industrials,val,179,6
+F,Consumer Discretionary,train,182,1
+FANG,Energy,train,183,3
+FAST,Industrials,train,184,6
+FCX,Materials,train,185,8
+FDS,Financials,train,186,4
+FDX,Industrials,train,187,6
+FE,Utilities,train,188,10
+FFIV,Information Technology,train,189,7
+FICO,Information Technology,train,190,7
+FIS,Financials,train,191,4
+FISV,Financials,train,192,4
+FOXA,Communication Services,train,196,0
+FRT,Real Estate,train,197,9
+FSLR,Information Technology,val,198,7
+FTNT,Information Technology,train,199,7
+FTV,Industrials,train,200,6
+GD,Industrials,train,201,6
+GDDY,Information Technology,train,202,7
+GE,Industrials,val,203,6
+GEN,Information Technology,train,205,7
+GILD,Health Care,train,207,5
+GIS,Consumer Staples,train,208,2
+GL,Financials,train,209,4
+GLW,Information Technology,train,210,7
+GM,Consumer Discretionary,val,211,1
+GNRC,Industrials,train,212,6
+GPN,Financials,train,215,4
+GRMN,Consumer Discretionary,train,216,1
+GS,Financials,train,217,4
+GWW,Industrials,train,218,6
+HAL,Energy,val,219,3
+HAS,Consumer Discretionary,train,220,1
+HBAN,Financials,train,221,4
+HD,Consumer Discretionary,train,223,1
+HIG,Financials,train,224,4
+HLT,Consumer Discretionary,train,226,1
+HOLX,Health Care,train,227,5
+HON,Industrials,train,228,6
+HOOD,Financials,train,229,4
+HPE,Information Technology,val,230,7
+HPQ,Information Technology,train,231,7
+HRL,Consumer Staples,val,232,2
+HSIC,Health Care,train,233,5
+HSY,Consumer Staples,val,235,2
+HUBB,Industrials,val,236,6
+HUM,Health Care,train,237,5
+IBM,Information Technology,train,240,7
+ICE,Financials,train,241,4
+IDXX,Health Care,train,242,5
+IEX,Industrials,train,243,6
+INCY,Health Care,val,245,5
+INTC,Information Technology,train,246,7
+INTU,Information Technology,train,247,7
+IP,Materials,train,249,8
+IQV,Health Care,train,250,5
+IR,Industrials,train,251,6
+IRM,Real Estate,val,252,9
+ISRG,Health Care,train,253,5
+IT,Information Technology,val,254,7
+ITW,Industrials,train,255,6
+IVZ,Financials,train,256,4
+JBHT,Industrials,train,258,6
+JBL,Information Technology,train,259,7
+JCI,Industrials,train,260,6
+JKHY,Financials,train,261,4
+JNJ,Health Care,train,262,5
+KDP,Consumer Staples,train,264,2
+KEY,Financials,train,265,4
+KEYS,Information Technology,train,266,7
+KHC,Consumer Staples,train,267,2
+KIM,Real Estate,val,268,9
+KLAC,Information Technology,train,270,7
+KMB,Consumer Staples,val,271,2
+KO,Consumer Staples,train,273,2
+KR,Consumer Staples,train,274,2
+KVUE,Consumer Staples,train,275,2
+L,Financials,train,276,4
+LDOS,Industrials,train,277,6
+LEN,Consumer Discretionary,train,278,1
+LH,Health Care,train,279,5
+LHX,Industrials,train,280,6
+LII,Industrials,val,281,6
+LIN,Materials,train,282,8
+LLY,Health Care,train,283,5
+LMT,Industrials,train,284,6
+LNT,Utilities,train,285,10
+LOW,Consumer Discretionary,train,286,1
+LRCX,Information Technology,train,287,7
+LULU,Consumer Discretionary,train,288,1
+LVS,Consumer Discretionary,train,290,1
+LW,Consumer Staples,train,291,2
+LYV,Communication Services,val,293,0
+MA,Financials,train,294,4
+MAA,Real Estate,val,295,9
+MAR,Consumer Discretionary,train,296,1
+MCD,Consumer Discretionary,val,298,1
+MCHP,Information Technology,val,299,7
+MCK,Health Care,train,300,5
+MCO,Financials,train,301,4
+MDLZ,Consumer Staples,train,302,2
+MET,Financials,train,304,4
+META,Communication Services,train,305,0
+MGM,Consumer Discretionary,val,306,1
+MKC,Consumer Staples,train,307,2
+MLM,Materials,train,308,8
+MMC,Financials,train,309,4
+MNST,Consumer Staples,train,311,2
+MO,Consumer Staples,val,312,2
+MOH,Health Care,train,313,5
+MOS,Materials,train,314,8
+MPC,Energy,train,315,3
+MPWR,Information Technology,train,316,7
+MRK,Health Care,train,317,5
+MRNA,Health Care,train,318,5
+MSCI,Financials,train,320,4
+MSI,Information Technology,train,322,7
+MTB,Financials,train,323,4
+MTCH,Communication Services,train,324,0
+MTD,Health Care,train,325,5
+MU,Information Technology,val,326,7
+NDAQ,Financials,train,328,4
+NDSN,Industrials,train,329,6
+NEE,Utilities,train,330,10
+NFLX,Communication Services,train,332,0
+NI,Utilities,train,333,10
+NKE,Consumer Discretionary,train,334,1
+NOC,Industrials,train,335,6
+NRG,Utilities,train,337,10
+NSC,Industrials,train,338,6
+NTAP,Information Technology,train,339,7
+NTRS,Financials,train,340,4
+NUE,Materials,train,341,8
+NVDA,Information Technology,train,342,7
+NWS,Communication Services,train,344,0
+NWSA,Communication Services,train,345,0
+O,Real Estate,train,347,9
+ODFL,Industrials,train,348,6
+OKE,Energy,train,349,3
+OMC,Communication Services,train,350,0
+ON,Information Technology,train,351,7
+ORCL,Information Technology,train,352,7
+OTIS,Industrials,train,354,6
+OXY,Energy,train,355,3
+PANW,Information Technology,train,356,7
+PAYC,Industrials,train,357,6
+PAYX,Industrials,train,358,6
+PCAR,Industrials,train,359,6
+PCG,Utilities,train,360,10
+PEG,Utilities,train,361,10
+PEP,Consumer Staples,train,362,2
+PFE,Health Care,train,363,5
+PFG,Financials,val,364,4
+PG,Consumer Staples,train,365,2
+PGR,Financials,train,366,4
+PH,Industrials,train,367,6
+PLD,Real Estate,train,370,9
+PLTR,Information Technology,val,371,7
+PM,Consumer Staples,train,372,2
+PNC,Financials,train,373,4
+PNR,Industrials,val,374,6
+PNW,Utilities,train,375,10
+PODD,Health Care,train,376,5
+POOL,Consumer Discretionary,train,377,1
+PPG,Materials,train,378,8
+PPL,Utilities,train,379,10
+PRU,Financials,train,380,4
+PSA,Real Estate,train,381,9
+PSKY,Communication Services,train,382,0
+PSX,Energy,train,383,3
+PTC,Information Technology,train,384,7
+PWR,Industrials,train,385,6
+Q,Information Technology,train,387,7
+QCOM,Information Technology,train,388,7
+RCL,Consumer Discretionary,train,389,1
+REG,Real Estate,train,390,9
+RF,Financials,train,392,4
+RJF,Financials,train,393,4
+RL,Consumer Discretionary,val,394,1
+RMD,Health Care,train,395,5
+ROK,Industrials,train,396,6
+ROL,Industrials,train,397,6
+ROP,Information Technology,train,398,7
+ROST,Consumer Discretionary,train,399,1
+RTX,Industrials,val,401,6
+RVTY,Health Care,train,402,5
+SBAC,Real Estate,train,403,9
+SBUX,Consumer Discretionary,train,404,1
+SCHW,Financials,train,405,4
+SHW,Materials,train,406,8
+SJM,Consumer Staples,train,407,2
+SLB,Energy,train,408,3
+SNA,Industrials,train,410,6
+SNDK,Information Technology,train,411,7
+SNPS,Information Technology,train,412,7
+SO,Utilities,train,413,10
+SOLV,Health Care,train,414,5
+SPG,Real Estate,train,415,9
+SPGI,Financials,train,416,4
+STE,Health Care,train,418,5
+STLD,Materials,train,419,8
+STT,Financials,train,420,4
+STX,Information Technology,train,421,7
+STZ,Consumer Staples,train,422,2
+SW,Materials,train,423,8
+SWK,Industrials,train,424,6
+SWKS,Information Technology,val,425,7
+SYF,Financials,train,426,4
+SYK,Health Care,train,427,5
+SYY,Consumer Staples,train,428,2
+T,Communication Services,train,429,0
+TAP,Consumer Staples,train,430,2
+TDG,Industrials,train,431,6
+TDY,Information Technology,train,432,7
+TECH,Health Care,train,433,5
+TEL,Information Technology,train,434,7
+TER,Information Technology,train,435,7
+TFC,Financials,train,436,4
+TGT,Consumer Staples,train,437,2
+TJX,Consumer Discretionary,train,438,1
+TKO,Communication Services,train,439,0
+TMO,Health Care,train,440,5
+TPL,Energy,train,442,3
+TPR,Consumer Discretionary,val,443,1
+TRGP,Energy,train,444,3
+TRMB,Information Technology,train,445,7
+TROW,Financials,train,446,4
+TRV,Financials,train,447,4
+TSCO,Consumer Discretionary,train,448,1
+TSN,Consumer Staples,train,450,2
+TT,Industrials,train,451,6
+TTD,Communication Services,train,452,0
+TTWO,Communication Services,train,453,0
+TXN,Information Technology,train,454,7
+TXT,Industrials,train,455,6
+TYL,Information Technology,val,456,7
+UBER,Industrials,train,458,6
+UDR,Real Estate,train,459,9
+UHS,Health Care,train,460,5
+ULTA,Consumer Discretionary,train,461,1
+UNH,Health Care,train,462,5
+UNP,Industrials,train,463,6
+URI,Industrials,train,465,6
+USB,Financials,train,466,4
+V,Financials,train,467,4
+VLTO,Industrials,train,470,6
+VMC,Materials,val,471,8
+VRSK,Industrials,train,472,6
+VRSN,Information Technology,val,473,7
+VRTX,Health Care,train,474,5
+VST,Utilities,val,475,10
+VTR,Real Estate,train,476,9
+VZ,Communication Services,train,479,0
+WAB,Industrials,train,480,6
+WBD,Communication Services,train,482,0
+WDAY,Information Technology,train,483,7
+WDC,Information Technology,train,484,7
+WEC,Utilities,train,485,10
+WELL,Real Estate,train,486,9
+WFC,Financials,train,487,4
+WM,Industrials,val,488,6
+WMB,Energy,val,489,3
+WRB,Financials,train,491,4
+WSM,Consumer Discretionary,train,492,1
+WST,Health Care,train,493,5
+WTW,Financials,train,494,4
+WYNN,Consumer Discretionary,val,496,1
+XEL,Utilities,train,497,10
+XYZ,Financials,train,500,4
+ZBH,Health Care,train,502,5
+ZBRA,Information Technology,train,503,7
+ZTS,Health Care,train,504,5
+A,Health Care,train,2,5
+ALB,Materials,train,22,8
+AON,Financials,train,35,4
+APTV,Consumer Discretionary,train,42,1
+AVGO,Information Technology,train,47,7
+AVY,Materials,train,48,8
+BA,Industrials,val,53,6
+BALL,Materials,val,55,8
+BBY,Consumer Discretionary,train,57,1
+BK,Financials,train,63,4
+CBRE,Real Estate,train,82,9
+CDNS,Information Technology,train,85,7
+CI,Health Care,train,93,5
+CME,Financials,train,98,4
+CNC,Health Care,train,102,5
+COST,Consumer Staples,train,109,2
+CVS,Health Care,train,126,5
+DDOG,Information Technology,train,133,7
+DG,Consumer Staples,train,137,2
+DOW,Materials,train,146,8
+EA,Communication Services,train,154,0
+EFX,Industrials,train,158,6
+EPAM,Information Technology,train,166,7
+EQR,Real Estate,val,168,9
+ERIE,Financials,train,170,4
+ETN,Industrials,train,173,6
+EXPE,Consumer Discretionary,train,180,1
+EXR,Real Estate,train,181,9
+FITB,Financials,val,193,4
+FIX,Industrials,train,194,6
+FOX,Communication Services,train,195,0
+GEHC,Health Care,train,204,5
+GEV,Industrials,train,206,6
+GPC,Consumer Discretionary,train,214,1
+HCA,Health Care,val,222,5
+HII,Industrials,train,225,6
+HST,Real Estate,train,234,9
+HWM,Industrials,train,238,6
+IBKR,Financials,train,239,4
+IFF,Materials,val,244,8
+INVH,Real Estate,train,248,9
+J,Industrials,train,257,6
+KKR,Financials,train,269,4
+KMI,Energy,train,272,3
+LUV,Industrials,train,289,6
+LYB,Materials,train,292,8
+MAS,Industrials,train,297,6
+MDT,Health Care,train,303,5
+MMM,Industrials,train,310,6
+MS,Financials,train,319,4
+NCLH,Consumer Discretionary,val,327,1
+NEM,Materials,val,331,8
+NOW,Information Technology,val,336,7
+NVR,Consumer Discretionary,val,343,1
+NXPI,Information Technology,train,346,7
+ORLY,Consumer Discretionary,train,353,1
+PHM,Consumer Discretionary,train,368,1
+PKG,Materials,train,369,8
+PYPL,Financials,train,386,4
+REGN,Health Care,train,391,5
+RSG,Industrials,val,400,6
+SMCI,Information Technology,train,409,7
+SRE,Utilities,train,417,10
+TMUS,Communication Services,train,441,0
+TSLA,Consumer Discretionary,train,449,1
+UAL,Industrials,train,457,6
+UPS,Industrials,train,464,6
+VICI,Real Estate,train,468,9
+VLO,Energy,val,469,3
+VTRS,Health Care,train,477,5
+WAT,Health Care,val,481,5
+WMT,Consumer Staples,val,490,2
+WY,Real Estate,train,495,9
+XYL,Industrials,train,499,6
+YUM,Consumer Discretionary,val,501,1

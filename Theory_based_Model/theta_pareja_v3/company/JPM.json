@@ -1,0 +1,26 @@
+{
+  "scope": "company",
+  "key": "JPM",
+  "theta": {
+    "dso": 60.0,
+    "dio": 30.0,
+    "dpo": 60.0,
+    "oca_to_sales": 0.02,
+    "onca_to_sales": 0.1,
+    "ocl_to_sales": 0.02,
+    "oncl_to_sales": 0.1,
+    "capex_to_sales": 0.08,
+    "dep_to_ppe": 0.06,
+    "cash_min_to_sales": 0.02,
+    "r_st": 0.05,
+    "r_lt": 0.05,
+    "tax_rate": 0.2,
+    "payout": 0.25
+  },
+  "fit_info": {
+    "fit_mode_used": "heuristic",
+    "loss": NaN,
+    "epoch": -1,
+    "note": ""
+  }
+}

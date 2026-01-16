@@ -1,0 +1,27 @@
+{
+  "scope": "sector",
+  "key": "Information Technology",
+  "theta": {
+    "dso": 49.627777099609375,
+    "dio": 102.38426971435547,
+    "dpo": 53.490962982177734,
+    "oca_to_sales": 0.10000000149011612,
+    "onca_to_sales": 0.5,
+    "ocl_to_sales": 0.1962631642818451,
+    "oncl_to_sales": 0.5,
+    "capex_to_sales": 0.002610785188153386,
+    "dep_to_ppe": 0.3756365180015564,
+    "cash_min_to_sales": 0.0072446600534021854,
+    "r_st": 0.010692968033254147,
+    "r_lt": 0.0016019836766645312,
+    "tax_rate": 0.03717973455786705,
+    "payout": 0.08708962798118591
+  },
+  "fit_info": {
+    "fit_mode_used": "tf",
+    "loss": 3.268063545227051,
+    "epoch": 2499,
+    "note": "",
+    "loss_mode": "relative"
+  }
+}

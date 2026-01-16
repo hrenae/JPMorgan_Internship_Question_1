@@ -1,0 +1,510 @@
+ticker,sector,label,sector_id
+0700.HK,Communication Services,test,0
+9988.HK,Consumer Discretionary,test,1
+BABA,Consumer Discretionary,test,1
+GOOG,Communication Services,test,0
+GOOGL,Communication Services,test,0
+JPM,Financials,test,4
+MSFT,Information Technology,test,7
+TCEHY,Communication Services,test,0
+VOW3.DE,Consumer Discretionary,test,1
+VWAGY,Consumer Discretionary,test,1
+XOM,Energy,test,3
+AAPL,Information Technology,train,7
+ABBV,Health Care,train,5
+ABNB,Consumer Discretionary,train,1
+ABT,Health Care,train,5
+ACGL,Financials,train,4
+ACN,Information Technology,train,7
+ADBE,Information Technology,train,7
+ADI,Information Technology,train,7
+ADM,Consumer Staples,train,2
+ADP,Industrials,train,6
+ADSK,Information Technology,train,7
+AEE,Utilities,train,10
+AEP,Utilities,train,10
+AES,Utilities,train,10
+AFL,Financials,train,4
+AIG,Financials,train,4
+AIZ,Financials,train,4
+AJG,Financials,train,4
+AKAM,Information Technology,train,7
+ALGN,Health Care,train,5
+ALL,Financials,train,4
+ALLE,Industrials,train,6
+AMAT,Information Technology,train,7
+AMCR,Materials,train,8
+AMD,Information Technology,train,7
+AME,Industrials,train,6
+AMGN,Health Care,train,5
+AMP,Financials,train,4
+AMT,Real Estate,train,9
+AMZN,Consumer Discretionary,train,1
+ANET,Information Technology,train,7
+AOS,Industrials,train,6
+APA,Energy,train,3
+APD,Materials,train,8
+APH,Information Technology,train,7
+APO,Financials,train,4
+APP,Information Technology,train,7
+ARE,Real Estate,train,9
+ARES,Financials,train,4
+ATO,Utilities,train,10
+AVB,Real Estate,train,9
+AWK,Utilities,train,10
+AXON,Industrials,train,6
+AXP,Financials,train,4
+AZO,Consumer Discretionary,train,1
+BAC,Financials,train,4
+BAX,Health Care,train,5
+BDX,Health Care,train,5
+BEN,Financials,train,4
+BF-B,Consumer Staples,train,2
+BG,Consumer Staples,train,2
+BIIB,Health Care,train,5
+BKNG,Consumer Discretionary,train,1
+BKR,Energy,train,3
+BLDR,Industrials,train,6
+BLK,Financials,train,4
+BMY,Health Care,train,5
+BR,Industrials,train,6
+BRK-B,Financials,train,4
+BRO,Financials,train,4
+BSX,Health Care,train,5
+BX,Financials,train,4
+BXP,Real Estate,train,9
+C,Financials,train,4
+CAG,Consumer Staples,train,2
+CAH,Health Care,train,5
+CARR,Industrials,train,6
+CAT,Industrials,train,6
+CB,Financials,train,4
+CBOE,Financials,train,4
+CCI,Real Estate,train,9
+CCL,Consumer Discretionary,train,1
+CDW,Information Technology,train,7
+CEG,Utilities,train,10
+CF,Materials,train,8
+CFG,Financials,train,4
+CHD,Consumer Staples,train,2
+CHRW,Industrials,train,6
+CHTR,Communication Services,train,0
+CINF,Financials,train,4
+CL,Consumer Staples,train,2
+CLX,Consumer Staples,train,2
+CMCSA,Communication Services,train,0
+CMG,Consumer Discretionary,train,1
+CMI,Industrials,train,6
+CMS,Utilities,train,10
+CNP,Utilities,train,10
+COF,Financials,train,4
+COIN,Financials,train,4
+COO,Health Care,train,5
+COP,Energy,train,3
+COR,Health Care,train,5
+CPAY,Financials,train,4
+CPB,Consumer Staples,train,2
+CPRT,Industrials,train,6
+CPT,Real Estate,train,9
+CRH,Materials,train,8
+CRL,Health Care,train,5
+CRM,Information Technology,train,7
+CRWD,Information Technology,train,7
+CSCO,Information Technology,train,7
+CSGP,Real Estate,train,9
+CSX,Industrials,train,6
+CTAS,Industrials,train,6
+CTRA,Energy,train,3
+CTSH,Information Technology,train,7
+CTVA,Materials,train,8
+CVNA,Consumer Discretionary,train,1
+CVX,Energy,train,3
+D,Utilities,train,10
+DAL,Industrials,train,6
+DASH,Consumer Discretionary,train,1
+DAY,Industrials,train,6
+DD,Materials,train,8
+DE,Industrials,train,6
+DECK,Consumer Discretionary,train,1
+DELL,Information Technology,train,7
+DGX,Health Care,train,5
+DHI,Consumer Discretionary,train,1
+DHR,Health Care,train,5
+DIS,Communication Services,train,0
+DLR,Real Estate,train,9
+DLTR,Consumer Staples,train,2
+DOC,Real Estate,train,9
+DOV,Industrials,train,6
+DPZ,Consumer Discretionary,train,1
+DRI,Consumer Discretionary,train,1
+DTE,Utilities,train,10
+DUK,Utilities,train,10
+DVA,Health Care,train,5
+DVN,Energy,train,3
+DXCM,Health Care,train,5
+EBAY,Consumer Discretionary,train,1
+ECL,Materials,train,8
+ED,Utilities,train,10
+EG,Financials,train,4
+EIX,Utilities,train,10
+EL,Consumer Staples,train,2
+ELV,Health Care,train,5
+EME,Industrials,train,6
+EMR,Industrials,train,6
+EOG,Energy,train,3
+EQIX,Real Estate,train,9
+EQT,Energy,train,3
+ES,Utilities,train,10
+ESS,Real Estate,train,9
+ETR,Utilities,train,10
+EVRG,Utilities,train,10
+EW,Health Care,train,5
+EXC,Utilities,train,10
+EXE,Energy,train,3
+EXPD,Industrials,train,6
+F,Consumer Discretionary,train,1
+FANG,Energy,train,3
+FAST,Industrials,train,6
+FCX,Materials,train,8
+FDS,Financials,train,4
+FDX,Industrials,train,6
+FE,Utilities,train,10
+FFIV,Information Technology,train,7
+FICO,Information Technology,train,7
+FIS,Financials,train,4
+FISV,Financials,train,4
+FOXA,Communication Services,train,0
+FRT,Real Estate,train,9
+FSLR,Information Technology,train,7
+FTNT,Information Technology,train,7
+FTV,Industrials,train,6
+GD,Industrials,train,6
+GDDY,Information Technology,train,7
+GE,Industrials,train,6
+GEN,Information Technology,train,7
+GILD,Health Care,train,5
+GIS,Consumer Staples,train,2
+GL,Financials,train,4
+GLW,Information Technology,train,7
+GM,Consumer Discretionary,train,1
+GNRC,Industrials,train,6
+GPN,Financials,train,4
+GRMN,Consumer Discretionary,train,1
+GS,Financials,train,4
+GWW,Industrials,train,6
+HAL,Energy,train,3
+HAS,Consumer Discretionary,train,1
+HBAN,Financials,train,4
+HD,Consumer Discretionary,train,1
+HIG,Financials,train,4
+HLT,Consumer Discretionary,train,1
+HOLX,Health Care,train,5
+HON,Industrials,train,6
+HOOD,Financials,train,4
+HPE,Information Technology,train,7
+HPQ,Information Technology,train,7
+HRL,Consumer Staples,train,2
+HSIC,Health Care,train,5
+HSY,Consumer Staples,train,2
+HUBB,Industrials,train,6
+HUM,Health Care,train,5
+IBM,Information Technology,train,7
+ICE,Financials,train,4
+IDXX,Health Care,train,5
+IEX,Industrials,train,6
+INCY,Health Care,train,5
+INTC,Information Technology,train,7
+INTU,Information Technology,train,7
+IP,Materials,train,8
+IQV,Health Care,train,5
+IR,Industrials,train,6
+IRM,Real Estate,train,9
+ISRG,Health Care,train,5
+IT,Information Technology,train,7
+ITW,Industrials,train,6
+IVZ,Financials,train,4
+JBHT,Industrials,train,6
+JBL,Information Technology,train,7
+JCI,Industrials,train,6
+JKHY,Financials,train,4
+JNJ,Health Care,train,5
+KDP,Consumer Staples,train,2
+KEY,Financials,train,4
+KEYS,Information Technology,train,7
+KHC,Consumer Staples,train,2
+KIM,Real Estate,train,9
+KLAC,Information Technology,train,7
+KMB,Consumer Staples,train,2
+KO,Consumer Staples,train,2
+KR,Consumer Staples,train,2
+KVUE,Consumer Staples,train,2
+L,Financials,train,4
+LDOS,Industrials,train,6
+LEN,Consumer Discretionary,train,1
+LH,Health Care,train,5
+LHX,Industrials,train,6
+LII,Industrials,train,6
+LIN,Materials,train,8
+LLY,Health Care,train,5
+LMT,Industrials,train,6
+LNT,Utilities,train,10
+LOW,Consumer Discretionary,train,1
+LRCX,Information Technology,train,7
+LULU,Consumer Discretionary,train,1
+LVS,Consumer Discretionary,train,1
+LW,Consumer Staples,train,2
+LYV,Communication Services,train,0
+MA,Financials,train,4
+MAA,Real Estate,train,9
+MAR,Consumer Discretionary,train,1
+MCD,Consumer Discretionary,train,1
+MCHP,Information Technology,train,7
+MCK,Health Care,train,5
+MCO,Financials,train,4
+MDLZ,Consumer Staples,train,2
+MET,Financials,train,4
+META,Communication Services,train,0
+MGM,Consumer Discretionary,train,1
+MKC,Consumer Staples,train,2
+MLM,Materials,train,8
+MMC,Financials,train,4
+MNST,Consumer Staples,train,2
+MO,Consumer Staples,train,2
+MOH,Health Care,train,5
+MOS,Materials,train,8
+MPC,Energy,train,3
+MPWR,Information Technology,train,7
+MRK,Health Care,train,5
+MRNA,Health Care,train,5
+MSCI,Financials,train,4
+MSI,Information Technology,train,7
+MTB,Financials,train,4
+MTCH,Communication Services,train,0
+MTD,Health Care,train,5
+MU,Information Technology,train,7
+NDAQ,Financials,train,4
+NDSN,Industrials,train,6
+NEE,Utilities,train,10
+NFLX,Communication Services,train,0
+NI,Utilities,train,10
+NKE,Consumer Discretionary,train,1
+NOC,Industrials,train,6
+NRG,Utilities,train,10
+NSC,Industrials,train,6
+NTAP,Information Technology,train,7
+NTRS,Financials,train,4
+NUE,Materials,train,8
+NVDA,Information Technology,train,7
+NWS,Communication Services,train,0
+NWSA,Communication Services,train,0
+O,Real Estate,train,9
+ODFL,Industrials,train,6
+OKE,Energy,train,3
+OMC,Communication Services,train,0
+ON,Information Technology,train,7
+ORCL,Information Technology,train,7
+OTIS,Industrials,train,6
+OXY,Energy,train,3
+PANW,Information Technology,train,7
+PAYC,Industrials,train,6
+PAYX,Industrials,train,6
+PCAR,Industrials,train,6
+PCG,Utilities,train,10
+PEG,Utilities,train,10
+PEP,Consumer Staples,train,2
+PFE,Health Care,train,5
+PFG,Financials,train,4
+PG,Consumer Staples,train,2
+PGR,Financials,train,4
+PH,Industrials,train,6
+PLD,Real Estate,train,9
+PLTR,Information Technology,train,7
+PM,Consumer Staples,train,2
+PNC,Financials,train,4
+PNR,Industrials,train,6
+PNW,Utilities,train,10
+PODD,Health Care,train,5
+POOL,Consumer Discretionary,train,1
+PPG,Materials,train,8
+PPL,Utilities,train,10
+PRU,Financials,train,4
+PSA,Real Estate,train,9
+PSKY,Communication Services,train,0
+PSX,Energy,train,3
+PTC,Information Technology,train,7
+PWR,Industrials,train,6
+Q,Information Technology,train,7
+QCOM,Information Technology,train,7
+RCL,Consumer Discretionary,train,1
+REG,Real Estate,train,9
+RF,Financials,train,4
+RJF,Financials,train,4
+RL,Consumer Discretionary,train,1
+RMD,Health Care,train,5
+ROK,Industrials,train,6
+ROL,Industrials,train,6
+ROP,Information Technology,train,7
+ROST,Consumer Discretionary,train,1
+RTX,Industrials,train,6
+RVTY,Health Care,train,5
+SBAC,Real Estate,train,9
+SBUX,Consumer Discretionary,train,1
+SCHW,Financials,train,4
+SHW,Materials,train,8
+SJM,Consumer Staples,train,2
+SLB,Energy,train,3
+SNA,Industrials,train,6
+SNDK,Information Technology,train,7
+SNPS,Information Technology,train,7
+SO,Utilities,train,10
+SOLV,Health Care,train,5
+SPG,Real Estate,train,9
+SPGI,Financials,train,4
+STE,Health Care,train,5
+STLD,Materials,train,8
+STT,Financials,train,4
+STX,Information Technology,train,7
+STZ,Consumer Staples,train,2
+SW,Materials,train,8
+SWK,Industrials,train,6
+SWKS,Information Technology,train,7
+SYF,Financials,train,4
+SYK,Health Care,train,5
+SYY,Consumer Staples,train,2
+T,Communication Services,train,0
+TAP,Consumer Staples,train,2
+TDG,Industrials,train,6
+TDY,Information Technology,train,7
+TECH,Health Care,train,5
+TEL,Information Technology,train,7
+TER,Information Technology,train,7
+TFC,Financials,train,4
+TGT,Consumer Staples,train,2
+TJX,Consumer Discretionary,train,1
+TKO,Communication Services,train,0
+TMO,Health Care,train,5
+TPL,Energy,train,3
+TPR,Consumer Discretionary,train,1
+TRGP,Energy,train,3
+TRMB,Information Technology,train,7
+TROW,Financials,train,4
+TRV,Financials,train,4
+TSCO,Consumer Discretionary,train,1
+TSN,Consumer Staples,train,2
+TT,Industrials,train,6
+TTD,Communication Services,train,0
+TTWO,Communication Services,train,0
+TXN,Information Technology,train,7
+TXT,Industrials,train,6
+TYL,Information Technology,train,7
+UBER,Industrials,train,6
+UDR,Real Estate,train,9
+UHS,Health Care,train,5
+ULTA,Consumer Discretionary,train,1
+UNH,Health Care,train,5
+UNP,Industrials,train,6
+URI,Industrials,train,6
+USB,Financials,train,4
+V,Financials,train,4
+VLTO,Industrials,train,6
+VMC,Materials,train,8
+VRSK,Industrials,train,6
+VRSN,Information Technology,train,7
+VRTX,Health Care,train,5
+VST,Utilities,train,10
+VTR,Real Estate,train,9
+VZ,Communication Services,train,0
+WAB,Industrials,train,6
+WBD,Communication Services,train,0
+WDAY,Information Technology,train,7
+WDC,Information Technology,train,7
+WEC,Utilities,train,10
+WELL,Real Estate,train,9
+WFC,Financials,train,4
+WM,Industrials,train,6
+WMB,Energy,train,3
+WRB,Financials,train,4
+WSM,Consumer Discretionary,train,1
+WST,Health Care,train,5
+WTW,Financials,train,4
+WYNN,Consumer Discretionary,train,1
+XEL,Utilities,train,10
+XYZ,Financials,train,4
+ZBH,Health Care,train,5
+ZBRA,Information Technology,train,7
+ZTS,Health Care,train,5
+A,Health Care,train,5
+ALB,Materials,train,8
+AON,Financials,train,4
+APTV,Consumer Discretionary,train,1
+AVGO,Information Technology,train,7
+AVY,Materials,train,8
+BA,Industrials,train,6
+BALL,Materials,train,8
+BBY,Consumer Discretionary,train,1
+BK,Financials,train,4
+CBRE,Real Estate,train,9
+CDNS,Information Technology,train,7
+CI,Health Care,train,5
+CME,Financials,train,4
+CNC,Health Care,train,5
+COST,Consumer Staples,train,2
+CVS,Health Care,train,5
+DDOG,Information Technology,train,7
+DG,Consumer Staples,train,2
+DOW,Materials,train,8
+EA,Communication Services,train,0
+EFX,Industrials,train,6
+EPAM,Information Technology,train,7
+EQR,Real Estate,train,9
+ERIE,Financials,train,4
+ETN,Industrials,train,6
+EXPE,Consumer Discretionary,train,1
+EXR,Real Estate,train,9
+FITB,Financials,train,4
+FIX,Industrials,train,6
+FOX,Communication Services,train,0
+GEHC,Health Care,train,5
+GEV,Industrials,train,6
+GPC,Consumer Discretionary,train,1
+HCA,Health Care,train,5
+HII,Industrials,train,6
+HST,Real Estate,train,9
+HWM,Industrials,train,6
+IBKR,Financials,train,4
+IFF,Materials,train,8
+INVH,Real Estate,train,9
+J,Industrials,train,6
+KKR,Financials,train,4
+KMI,Energy,train,3
+LUV,Industrials,train,6
+LYB,Materials,train,8
+MAS,Industrials,train,6
+MDT,Health Care,train,5
+MMM,Industrials,train,6
+MS,Financials,train,4
+NCLH,Consumer Discretionary,train,1
+NEM,Materials,train,8
+NOW,Information Technology,train,7
+NVR,Consumer Discretionary,train,1
+NXPI,Information Technology,train,7
+ORLY,Consumer Discretionary,train,1
+PHM,Consumer Discretionary,train,1
+PKG,Materials,train,8
+PYPL,Financials,train,4
+REGN,Health Care,train,5
+RSG,Industrials,train,6
+SMCI,Information Technology,train,7
+SRE,Utilities,train,10
+TMUS,Communication Services,train,0
+TSLA,Consumer Discretionary,train,1
+UAL,Industrials,train,6
+UPS,Industrials,train,6
+VICI,Real Estate,train,9
+VLO,Energy,train,3
+VTRS,Health Care,train,5
+WAT,Health Care,train,5
+WMT,Consumer Staples,train,2
+WY,Real Estate,train,9
+XYL,Industrials,train,6
+YUM,Consumer Discretionary,train,1

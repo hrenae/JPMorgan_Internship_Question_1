@@ -1,0 +1,510 @@
+ticker,sector,label,sector_id,n_periods,n_trans,fetch_err_bs_a,fetch_err_inc_a,fetch_err_cf_a,skipped
+0700.HK,Communication Services,test,0,4,3,,,,0
+9988.HK,Consumer Discretionary,test,1,5,4,,,,0
+BABA,Consumer Discretionary,test,1,5,4,,,,0
+GOOG,Communication Services,test,0,4,3,,,,0
+GOOGL,Communication Services,test,0,4,3,,,,0
+JPM,Financials,test,4,4,3,,,,0
+MSFT,Information Technology,test,7,5,4,,,,0
+TCEHY,Communication Services,test,0,4,3,,,,0
+VOW3.DE,Consumer Discretionary,test,1,4,3,,,,0
+VWAGY,Consumer Discretionary,test,1,4,3,,,,0
+XOM,Energy,test,3,4,3,,,,0
+AAPL,Information Technology,train,7,5,4,,,,0
+ABBV,Health Care,train,5,4,3,,,,0
+ABNB,Consumer Discretionary,train,1,4,3,,,,0
+ABT,Health Care,train,5,4,3,,,,0
+ACGL,Financials,train,4,4,3,,,,0
+ACN,Information Technology,train,7,5,4,,,,0
+ADBE,Information Technology,train,7,4,3,,,,0
+ADI,Information Technology,train,7,5,4,,,,0
+ADM,Consumer Staples,train,2,4,3,,,,0
+ADP,Industrials,train,6,5,4,,,,0
+ADSK,Information Technology,train,7,5,4,,,,0
+AEE,Utilities,train,10,4,3,,,,0
+AEP,Utilities,train,10,4,3,,,,0
+AES,Utilities,train,10,4,3,,,,0
+AFL,Financials,train,4,4,3,,,,0
+AIG,Financials,train,4,4,3,,,,0
+AIZ,Financials,train,4,4,3,,,,0
+AJG,Financials,train,4,4,3,,,,0
+AKAM,Information Technology,train,7,4,3,,,,0
+ALGN,Health Care,train,5,4,3,,,,0
+ALL,Financials,train,4,4,3,,,,0
+ALLE,Industrials,train,6,4,3,,,,0
+AMAT,Information Technology,train,7,5,4,,,,0
+AMCR,Materials,train,8,5,4,,,,0
+AMD,Information Technology,train,7,4,3,,,,0
+AME,Industrials,train,6,4,3,,,,0
+AMGN,Health Care,train,5,4,3,,,,0
+AMP,Financials,train,4,4,3,,,,0
+AMT,Real Estate,train,9,4,3,,,,0
+AMZN,Consumer Discretionary,train,1,4,3,,,,0
+ANET,Information Technology,train,7,4,3,,,,0
+AOS,Industrials,train,6,4,3,,,,0
+APA,Energy,train,3,4,3,,,,0
+APD,Materials,train,8,5,4,,,,0
+APH,Information Technology,train,7,4,3,,,,0
+APO,Financials,train,4,4,3,,,,0
+APP,Information Technology,train,7,4,3,,,,0
+ARE,Real Estate,train,9,4,3,,,,0
+ARES,Financials,train,4,4,3,,,,0
+ATO,Utilities,train,10,5,4,,,,0
+AVB,Real Estate,train,9,4,3,,,,0
+AWK,Utilities,train,10,4,3,,,,0
+AXON,Industrials,train,6,4,3,,,,0
+AXP,Financials,train,4,4,3,,,,0
+AZO,Consumer Discretionary,train,1,5,4,,,,0
+BAC,Financials,train,4,4,3,,,,0
+BAX,Health Care,train,5,4,3,,,,0
+BDX,Health Care,train,5,5,4,,,,0
+BEN,Financials,train,4,5,4,,,,0
+BF-B,Consumer Staples,train,2,5,4,,,,0
+BG,Consumer Staples,train,2,4,3,,,,0
+BIIB,Health Care,train,5,4,3,,,,0
+BKNG,Consumer Discretionary,train,1,4,3,,,,0
+BKR,Energy,train,3,4,3,,,,0
+BLDR,Industrials,train,6,4,3,,,,0
+BLK,Financials,train,4,4,3,,,,0
+BMY,Health Care,train,5,4,3,,,,0
+BR,Industrials,train,6,5,4,,,,0
+BRK-B,Financials,train,4,4,3,,,,0
+BRO,Financials,train,4,4,3,,,,0
+BSX,Health Care,train,5,4,3,,,,0
+BX,Financials,train,4,4,3,,,,0
+BXP,Real Estate,train,9,4,3,,,,0
+C,Financials,train,4,4,3,,,,0
+CAG,Consumer Staples,train,2,5,4,,,,0
+CAH,Health Care,train,5,5,4,,,,0
+CARR,Industrials,train,6,4,3,,,,0
+CAT,Industrials,train,6,4,3,,,,0
+CB,Financials,train,4,4,3,,,,0
+CBOE,Financials,train,4,4,3,,,,0
+CCI,Real Estate,train,9,4,3,,,,0
+CCL,Consumer Discretionary,train,1,4,3,,,,0
+CDW,Information Technology,train,7,4,3,,,,0
+CEG,Utilities,train,10,4,3,,,,0
+CF,Materials,train,8,4,3,,,,0
+CFG,Financials,train,4,4,3,,,,0
+CHD,Consumer Staples,train,2,4,3,,,,0
+CHRW,Industrials,train,6,4,3,,,,0
+CHTR,Communication Services,train,0,4,3,,,,0
+CINF,Financials,train,4,4,3,,,,0
+CL,Consumer Staples,train,2,4,3,,,,0
+CLX,Consumer Staples,train,2,5,4,,,,0
+CMCSA,Communication Services,train,0,4,3,,,,0
+CMG,Consumer Discretionary,train,1,4,3,,,,0
+CMI,Industrials,train,6,4,3,,,,0
+CMS,Utilities,train,10,4,3,,,,0
+CNP,Utilities,train,10,4,3,,,,0
+COF,Financials,train,4,4,3,,,,0
+COIN,Financials,train,4,4,3,,,,0
+COO,Health Care,train,5,5,4,,,,0
+COP,Energy,train,3,4,3,,,,0
+COR,Health Care,train,5,5,4,,,,0
+CPAY,Financials,train,4,4,3,,,,0
+CPB,Consumer Staples,train,2,5,4,,,,0
+CPRT,Industrials,train,6,5,4,,,,0
+CPT,Real Estate,train,9,4,3,,,,0
+CRH,Materials,train,8,4,3,,,,0
+CRL,Health Care,train,5,4,3,,,,0
+CRM,Information Technology,train,7,5,4,,,,0
+CRWD,Information Technology,train,7,5,4,,,,0
+CSCO,Information Technology,train,7,5,4,,,,0
+CSGP,Real Estate,train,9,4,3,,,,0
+CSX,Industrials,train,6,4,3,,,,0
+CTAS,Industrials,train,6,5,4,,,,0
+CTRA,Energy,train,3,4,3,,,,0
+CTSH,Information Technology,train,7,4,3,,,,0
+CTVA,Materials,train,8,4,3,,,,0
+CVNA,Consumer Discretionary,train,1,4,3,,,,0
+CVX,Energy,train,3,4,3,,,,0
+D,Utilities,train,10,4,3,,,,0
+DAL,Industrials,train,6,4,3,,,,0
+DASH,Consumer Discretionary,train,1,4,3,,,,0
+DAY,Industrials,train,6,4,3,,,,0
+DD,Materials,train,8,4,3,,,,0
+DE,Industrials,train,6,5,4,,,,0
+DECK,Consumer Discretionary,train,1,5,4,,,,0
+DELL,Information Technology,train,7,5,4,,,,0
+DGX,Health Care,train,5,4,3,,,,0
+DHI,Consumer Discretionary,train,1,5,4,,,,0
+DHR,Health Care,train,5,4,3,,,,0
+DIS,Communication Services,train,0,5,4,,,,0
+DLR,Real Estate,train,9,4,3,,,,0
+DLTR,Consumer Staples,train,2,5,4,,,,0
+DOC,Real Estate,train,9,4,3,,,,0
+DOV,Industrials,train,6,4,3,,,,0
+DPZ,Consumer Discretionary,train,1,4,3,,,,0
+DRI,Consumer Discretionary,train,1,5,4,,,,0
+DTE,Utilities,train,10,4,3,,,,0
+DUK,Utilities,train,10,4,3,,,,0
+DVA,Health Care,train,5,4,3,,,,0
+DVN,Energy,train,3,4,3,,,,0
+DXCM,Health Care,train,5,4,3,,,,0
+EBAY,Consumer Discretionary,train,1,4,3,,,,0
+ECL,Materials,train,8,4,3,,,,0
+ED,Utilities,train,10,4,3,,,,0
+EG,Financials,train,4,4,3,,,,0
+EIX,Utilities,train,10,4,3,,,,0
+EL,Consumer Staples,train,2,5,4,,,,0
+ELV,Health Care,train,5,4,3,,,,0
+EME,Industrials,train,6,4,3,,,,0
+EMR,Industrials,train,6,5,4,,,,0
+EOG,Energy,train,3,4,3,,,,0
+EQIX,Real Estate,train,9,4,3,,,,0
+EQT,Energy,train,3,4,3,,,,0
+ES,Utilities,train,10,4,3,,,,0
+ESS,Real Estate,train,9,4,3,,,,0
+ETR,Utilities,train,10,4,3,,,,0
+EVRG,Utilities,train,10,4,3,,,,0
+EW,Health Care,train,5,4,3,,,,0
+EXC,Utilities,train,10,4,3,,,,0
+EXE,Energy,train,3,4,3,,,,0
+EXPD,Industrials,train,6,4,3,,,,0
+F,Consumer Discretionary,train,1,4,3,,,,0
+FANG,Energy,train,3,4,3,,,,0
+FAST,Industrials,train,6,4,3,,,,0
+FCX,Materials,train,8,4,3,,,,0
+FDS,Financials,train,4,5,4,,,,0
+FDX,Industrials,train,6,5,4,,,,0
+FE,Utilities,train,10,4,3,,,,0
+FFIV,Information Technology,train,7,5,4,,,,0
+FICO,Information Technology,train,7,5,4,,,,0
+FIS,Financials,train,4,4,3,,,,0
+FISV,Financials,train,4,4,3,,,,0
+FOXA,Communication Services,train,0,5,4,,,,0
+FRT,Real Estate,train,9,4,3,,,,0
+FSLR,Information Technology,train,7,4,3,,,,0
+FTNT,Information Technology,train,7,4,3,,,,0
+FTV,Industrials,train,6,4,3,,,,0
+GD,Industrials,train,6,4,3,,,,0
+GDDY,Information Technology,train,7,4,3,,,,0
+GE,Industrials,train,6,4,3,,,,0
+GEN,Information Technology,train,7,5,4,,,,0
+GILD,Health Care,train,5,4,3,,,,0
+GIS,Consumer Staples,train,2,5,4,,,,0
+GL,Financials,train,4,4,3,,,,0
+GLW,Information Technology,train,7,4,3,,,,0
+GM,Consumer Discretionary,train,1,4,3,,,,0
+GNRC,Industrials,train,6,4,3,,,,0
+GPN,Financials,train,4,4,3,,,,0
+GRMN,Consumer Discretionary,train,1,4,3,,,,0
+GS,Financials,train,4,4,3,,,,0
+GWW,Industrials,train,6,4,3,,,,0
+HAL,Energy,train,3,4,3,,,,0
+HAS,Consumer Discretionary,train,1,4,3,,,,0
+HBAN,Financials,train,4,4,3,,,,0
+HD,Consumer Discretionary,train,1,5,4,,,,0
+HIG,Financials,train,4,4,3,,,,0
+HLT,Consumer Discretionary,train,1,4,3,,,,0
+HOLX,Health Care,train,5,5,4,,,,0
+HON,Industrials,train,6,4,3,,,,0
+HOOD,Financials,train,4,4,3,,,,0
+HPE,Information Technology,train,7,5,4,,,,0
+HPQ,Information Technology,train,7,5,4,,,,0
+HRL,Consumer Staples,train,2,5,4,,,,0
+HSIC,Health Care,train,5,4,3,,,,0
+HSY,Consumer Staples,train,2,4,3,,,,0
+HUBB,Industrials,train,6,4,3,,,,0
+HUM,Health Care,train,5,4,3,,,,0
+IBM,Information Technology,train,7,4,3,,,,0
+ICE,Financials,train,4,4,3,,,,0
+IDXX,Health Care,train,5,4,3,,,,0
+IEX,Industrials,train,6,4,3,,,,0
+INCY,Health Care,train,5,4,3,,,,0
+INTC,Information Technology,train,7,4,3,,,,0
+INTU,Information Technology,train,7,5,4,,,,0
+IP,Materials,train,8,4,3,,,,0
+IQV,Health Care,train,5,4,3,,,,0
+IR,Industrials,train,6,4,3,,,,0
+IRM,Real Estate,train,9,4,3,,,,0
+ISRG,Health Care,train,5,4,3,,,,0
+IT,Information Technology,train,7,4,3,,,,0
+ITW,Industrials,train,6,4,3,,,,0
+IVZ,Financials,train,4,4,3,,,,0
+JBHT,Industrials,train,6,4,3,,,,0
+JBL,Information Technology,train,7,5,4,,,,0
+JCI,Industrials,train,6,5,4,,,,0
+JKHY,Financials,train,4,5,4,,,,0
+JNJ,Health Care,train,5,4,3,,,,0
+KDP,Consumer Staples,train,2,4,3,,,,0
+KEY,Financials,train,4,4,3,,,,0
+KEYS,Information Technology,train,7,5,4,,,,0
+KHC,Consumer Staples,train,2,4,3,,,,0
+KIM,Real Estate,train,9,4,3,,,,0
+KLAC,Information Technology,train,7,5,4,,,,0
+KMB,Consumer Staples,train,2,4,3,,,,0
+KO,Consumer Staples,train,2,4,3,,,,0
+KR,Consumer Staples,train,2,5,4,,,,0
+KVUE,Consumer Staples,train,2,4,3,,,,0
+L,Financials,train,4,4,3,,,,0
+LDOS,Industrials,train,6,4,3,,,,0
+LEN,Consumer Discretionary,train,1,4,3,,,,0
+LH,Health Care,train,5,4,3,,,,0
+LHX,Industrials,train,6,4,3,,,,0
+LII,Industrials,train,6,4,3,,,,0
+LIN,Materials,train,8,4,3,,,,0
+LLY,Health Care,train,5,4,3,,,,0
+LMT,Industrials,train,6,4,3,,,,0
+LNT,Utilities,train,10,4,3,,,,0
+LOW,Consumer Discretionary,train,1,5,4,,,,0
+LRCX,Information Technology,train,7,5,4,,,,0
+LULU,Consumer Discretionary,train,1,5,4,,,,0
+LVS,Consumer Discretionary,train,1,4,3,,,,0
+LW,Consumer Staples,train,2,5,4,,,,0
+LYV,Communication Services,train,0,4,3,,,,0
+MA,Financials,train,4,4,3,,,,0
+MAA,Real Estate,train,9,4,3,,,,0
+MAR,Consumer Discretionary,train,1,4,3,,,,0
+MCD,Consumer Discretionary,train,1,4,3,,,,0
+MCHP,Information Technology,train,7,5,4,,,,0
+MCK,Health Care,train,5,5,4,,,,0
+MCO,Financials,train,4,4,3,,,,0
+MDLZ,Consumer Staples,train,2,4,3,,,,0
+MET,Financials,train,4,4,3,,,,0
+META,Communication Services,train,0,4,3,,,,0
+MGM,Consumer Discretionary,train,1,4,3,,,,0
+MKC,Consumer Staples,train,2,4,3,,,,0
+MLM,Materials,train,8,4,3,,,,0
+MMC,Financials,train,4,4,3,,,,0
+MNST,Consumer Staples,train,2,4,3,,,,0
+MO,Consumer Staples,train,2,4,3,,,,0
+MOH,Health Care,train,5,4,3,,,,0
+MOS,Materials,train,8,4,3,,,,0
+MPC,Energy,train,3,4,3,,,,0
+MPWR,Information Technology,train,7,4,3,,,,0
+MRK,Health Care,train,5,4,3,,,,0
+MRNA,Health Care,train,5,4,3,,,,0
+MSCI,Financials,train,4,4,3,,,,0
+MSI,Information Technology,train,7,4,3,,,,0
+MTB,Financials,train,4,4,3,,,,0
+MTCH,Communication Services,train,0,4,3,,,,0
+MTD,Health Care,train,5,4,3,,,,0
+MU,Information Technology,train,7,5,4,,,,0
+NDAQ,Financials,train,4,4,3,,,,0
+NDSN,Industrials,train,6,5,4,,,,0
+NEE,Utilities,train,10,4,3,,,,0
+NFLX,Communication Services,train,0,4,3,,,,0
+NI,Utilities,train,10,4,3,,,,0
+NKE,Consumer Discretionary,train,1,5,4,,,,0
+NOC,Industrials,train,6,4,3,,,,0
+NRG,Utilities,train,10,4,3,,,,0
+NSC,Industrials,train,6,4,3,,,,0
+NTAP,Information Technology,train,7,5,4,,,,0
+NTRS,Financials,train,4,4,3,,,,0
+NUE,Materials,train,8,4,3,,,,0
+NVDA,Information Technology,train,7,5,4,,,,0
+NWS,Communication Services,train,0,5,4,,,,0
+NWSA,Communication Services,train,0,5,4,,,,0
+O,Real Estate,train,9,4,3,,,,0
+ODFL,Industrials,train,6,4,3,,,,0
+OKE,Energy,train,3,4,3,,,,0
+OMC,Communication Services,train,0,4,3,,,,0
+ON,Information Technology,train,7,4,3,,,,0
+ORCL,Information Technology,train,7,5,4,,,,0
+OTIS,Industrials,train,6,4,3,,,,0
+OXY,Energy,train,3,4,3,,,,0
+PANW,Information Technology,train,7,5,4,,,,0
+PAYC,Industrials,train,6,4,3,,,,0
+PAYX,Industrials,train,6,5,4,,,,0
+PCAR,Industrials,train,6,4,3,,,,0
+PCG,Utilities,train,10,4,3,,,,0
+PEG,Utilities,train,10,4,3,,,,0
+PEP,Consumer Staples,train,2,4,3,,,,0
+PFE,Health Care,train,5,4,3,,,,0
+PFG,Financials,train,4,4,3,,,,0
+PG,Consumer Staples,train,2,5,4,,,,0
+PGR,Financials,train,4,4,3,,,,0
+PH,Industrials,train,6,5,4,,,,0
+PLD,Real Estate,train,9,4,3,,,,0
+PLTR,Information Technology,train,7,4,3,,,,0
+PM,Consumer Staples,train,2,4,3,,,,0
+PNC,Financials,train,4,4,3,,,,0
+PNR,Industrials,train,6,4,3,,,,0
+PNW,Utilities,train,10,4,3,,,,0
+PODD,Health Care,train,5,4,3,,,,0
+POOL,Consumer Discretionary,train,1,4,3,,,,0
+PPG,Materials,train,8,4,3,,,,0
+PPL,Utilities,train,10,4,3,,,,0
+PRU,Financials,train,4,4,3,,,,0
+PSA,Real Estate,train,9,4,3,,,,0
+PSKY,Communication Services,train,0,4,3,,,,0
+PSX,Energy,train,3,4,3,,,,0
+PTC,Information Technology,train,7,5,4,,,,0
+PWR,Industrials,train,6,4,3,,,,0
+Q,Information Technology,train,7,3,2,,,,0
+QCOM,Information Technology,train,7,5,4,,,,0
+RCL,Consumer Discretionary,train,1,4,3,,,,0
+REG,Real Estate,train,9,4,3,,,,0
+RF,Financials,train,4,4,3,,,,0
+RJF,Financials,train,4,5,4,,,,0
+RL,Consumer Discretionary,train,1,5,4,,,,0
+RMD,Health Care,train,5,5,4,,,,0
+ROK,Industrials,train,6,5,4,,,,0
+ROL,Industrials,train,6,4,3,,,,0
+ROP,Information Technology,train,7,4,3,,,,0
+ROST,Consumer Discretionary,train,1,5,4,,,,0
+RTX,Industrials,train,6,4,3,,,,0
+RVTY,Health Care,train,5,4,3,,,,0
+SBAC,Real Estate,train,9,4,3,,,,0
+SBUX,Consumer Discretionary,train,1,5,4,,,,0
+SCHW,Financials,train,4,4,3,,,,0
+SHW,Materials,train,8,4,3,,,,0
+SJM,Consumer Staples,train,2,5,4,,,,0
+SLB,Energy,train,3,4,3,,,,0
+SNA,Industrials,train,6,4,3,,,,0
+SNDK,Information Technology,train,7,3,2,,,,0
+SNPS,Information Technology,train,7,5,4,,,,0
+SO,Utilities,train,10,4,3,,,,0
+SOLV,Health Care,train,5,4,3,,,,0
+SPG,Real Estate,train,9,4,3,,,,0
+SPGI,Financials,train,4,4,3,,,,0
+STE,Health Care,train,5,5,4,,,,0
+STLD,Materials,train,8,4,3,,,,0
+STT,Financials,train,4,4,3,,,,0
+STX,Information Technology,train,7,5,4,,,,0
+STZ,Consumer Staples,train,2,5,4,,,,0
+SW,Materials,train,8,4,3,,,,0
+SWK,Industrials,train,6,4,3,,,,0
+SWKS,Information Technology,train,7,5,4,,,,0
+SYF,Financials,train,4,4,3,,,,0
+SYK,Health Care,train,5,4,3,,,,0
+SYY,Consumer Staples,train,2,5,4,,,,0
+T,Communication Services,train,0,4,3,,,,0
+TAP,Consumer Staples,train,2,4,3,,,,0
+TDG,Industrials,train,6,5,4,,,,0
+TDY,Information Technology,train,7,4,3,,,,0
+TECH,Health Care,train,5,5,4,,,,0
+TEL,Information Technology,train,7,5,4,,,,0
+TER,Information Technology,train,7,4,3,,,,0
+TFC,Financials,train,4,4,3,,,,0
+TGT,Consumer Staples,train,2,5,4,,,,0
+TJX,Consumer Discretionary,train,1,5,4,,,,0
+TKO,Communication Services,train,0,4,3,,,,0
+TMO,Health Care,train,5,4,3,,,,0
+TPL,Energy,train,3,4,3,,,,0
+TPR,Consumer Discretionary,train,1,5,4,,,,0
+TRGP,Energy,train,3,4,3,,,,0
+TRMB,Information Technology,train,7,4,3,,,,0
+TROW,Financials,train,4,4,3,,,,0
+TRV,Financials,train,4,4,3,,,,0
+TSCO,Consumer Discretionary,train,1,4,3,,,,0
+TSN,Consumer Staples,train,2,5,4,,,,0
+TT,Industrials,train,6,4,3,,,,0
+TTD,Communication Services,train,0,4,3,,,,0
+TTWO,Communication Services,train,0,5,4,,,,0
+TXN,Information Technology,train,7,4,3,,,,0
+TXT,Industrials,train,6,4,3,,,,0
+TYL,Information Technology,train,7,4,3,,,,0
+UBER,Industrials,train,6,4,3,,,,0
+UDR,Real Estate,train,9,4,3,,,,0
+UHS,Health Care,train,5,4,3,,,,0
+ULTA,Consumer Discretionary,train,1,5,4,,,,0
+UNH,Health Care,train,5,4,3,,,,0
+UNP,Industrials,train,6,4,3,,,,0
+URI,Industrials,train,6,4,3,,,,0
+USB,Financials,train,4,4,3,,,,0
+V,Financials,train,4,5,4,,,,0
+VLTO,Industrials,train,6,4,3,,,,0
+VMC,Materials,train,8,4,3,,,,0
+VRSK,Industrials,train,6,4,3,,,,0
+VRSN,Information Technology,train,7,4,3,,,,0
+VRTX,Health Care,train,5,4,3,,,,0
+VST,Utilities,train,10,4,3,,,,0
+VTR,Real Estate,train,9,4,3,,,,0
+VZ,Communication Services,train,0,4,3,,,,0
+WAB,Industrials,train,6,4,3,,,,0
+WBD,Communication Services,train,0,4,3,,,,0
+WDAY,Information Technology,train,7,5,4,,,,0
+WDC,Information Technology,train,7,5,4,,,,0
+WEC,Utilities,train,10,4,3,,,,0
+WELL,Real Estate,train,9,4,3,,,,0
+WFC,Financials,train,4,4,3,,,,0
+WM,Industrials,train,6,4,3,,,,0
+WMB,Energy,train,3,4,3,,,,0
+WRB,Financials,train,4,4,3,,,,0
+WSM,Consumer Discretionary,train,1,5,4,,,,0
+WST,Health Care,train,5,4,3,,,,0
+WTW,Financials,train,4,4,3,,,,0
+WYNN,Consumer Discretionary,train,1,4,3,,,,0
+XEL,Utilities,train,10,4,3,,,,0
+XYZ,Financials,train,4,4,3,,,,0
+ZBH,Health Care,train,5,4,3,,,,0
+ZBRA,Information Technology,train,7,4,3,,,,0
+ZTS,Health Care,train,5,4,3,,,,0
+A,Health Care,train,5,5,4,,,,0
+ALB,Materials,train,8,4,3,,,,0
+AON,Financials,train,4,4,3,,,,0
+APTV,Consumer Discretionary,train,1,4,3,,,,0
+AVGO,Information Technology,train,7,5,4,,,,0
+AVY,Materials,train,8,4,3,,,,0
+BA,Industrials,train,6,4,3,,,,0
+BALL,Materials,train,8,4,3,,,,0
+BBY,Consumer Discretionary,train,1,5,4,,,,0
+BK,Financials,train,4,4,3,,,,0
+CBRE,Real Estate,train,9,4,3,,,,0
+CDNS,Information Technology,train,7,4,3,,,,0
+CI,Health Care,train,5,4,3,,,,0
+CME,Financials,train,4,4,3,,,,0
+CNC,Health Care,train,5,4,3,,,,0
+COST,Consumer Staples,train,2,5,4,,,,0
+CVS,Health Care,train,5,4,3,,,,0
+DDOG,Information Technology,train,7,4,3,,,,0
+DG,Consumer Staples,train,2,5,4,,,,0
+DOW,Materials,train,8,4,3,,,,0
+EA,Communication Services,train,0,5,4,,,,0
+EFX,Industrials,train,6,4,3,,,,0
+EPAM,Information Technology,train,7,4,3,,,,0
+EQR,Real Estate,train,9,4,3,,,,0
+ERIE,Financials,train,4,4,3,,,,0
+ETN,Industrials,train,6,4,3,,,,0
+EXPE,Consumer Discretionary,train,1,4,3,,,,0
+EXR,Real Estate,train,9,4,3,,,,0
+FITB,Financials,train,4,4,3,,,,0
+FIX,Industrials,train,6,4,3,,,,0
+FOX,Communication Services,train,0,5,4,,,,0
+GEHC,Health Care,train,5,4,3,,,,0
+GEV,Industrials,train,6,4,3,,,,0
+GPC,Consumer Discretionary,train,1,4,3,,,,0
+HCA,Health Care,train,5,4,3,,,,0
+HII,Industrials,train,6,4,3,,,,0
+HST,Real Estate,train,9,4,3,,,,0
+HWM,Industrials,train,6,4,3,,,,0
+IBKR,Financials,train,4,4,3,,,,0
+IFF,Materials,train,8,4,3,,,,0
+INVH,Real Estate,train,9,4,3,,,,0
+J,Industrials,train,6,5,4,,,,0
+KKR,Financials,train,4,4,3,,,,0
+KMI,Energy,train,3,4,3,,,,0
+LUV,Industrials,train,6,4,3,,,,0
+LYB,Materials,train,8,4,3,,,,0
+MAS,Industrials,train,6,4,3,,,,0
+MDT,Health Care,train,5,5,4,,,,0
+MMM,Industrials,train,6,4,3,,,,0
+MS,Financials,train,4,4,3,,,,0
+NCLH,Consumer Discretionary,train,1,4,3,,,,0
+NEM,Materials,train,8,4,3,,,,0
+NOW,Information Technology,train,7,4,3,,,,0
+NVR,Consumer Discretionary,train,1,4,3,,,,0
+NXPI,Information Technology,train,7,4,3,,,,0
+ORLY,Consumer Discretionary,train,1,4,3,,,,0
+PHM,Consumer Discretionary,train,1,4,3,,,,0
+PKG,Materials,train,8,4,3,,,,0
+PYPL,Financials,train,4,4,3,,,,0
+REGN,Health Care,train,5,4,3,,,,0
+RSG,Industrials,train,6,4,3,,,,0
+SMCI,Information Technology,train,7,5,4,,,,0
+SRE,Utilities,train,10,4,3,,,,0
+TMUS,Communication Services,train,0,4,3,,,,0
+TSLA,Consumer Discretionary,train,1,4,3,,,,0
+UAL,Industrials,train,6,4,3,,,,0
+UPS,Industrials,train,6,4,3,,,,0
+VICI,Real Estate,train,9,4,3,,,,0
+VLO,Energy,train,3,4,3,,,,0
+VTRS,Health Care,train,5,4,3,,,,0
+WAT,Health Care,train,5,4,3,,,,0
+WMT,Consumer Staples,train,2,5,4,,,,0
+WY,Real Estate,train,9,4,3,,,,0
+XYL,Industrials,train,6,4,3,,,,0
+YUM,Consumer Discretionary,train,1,4,3,,,,0

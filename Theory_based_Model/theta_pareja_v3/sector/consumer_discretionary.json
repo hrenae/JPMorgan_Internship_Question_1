@@ -1,0 +1,27 @@
+{
+  "scope": "sector",
+  "key": "Consumer Discretionary",
+  "theta": {
+    "dso": 3.2130346298217773,
+    "dio": 47.9903678894043,
+    "dpo": 25.14256477355957,
+    "oca_to_sales": 0.10000000149011612,
+    "onca_to_sales": 0.5,
+    "ocl_to_sales": 0.10000000149011612,
+    "oncl_to_sales": 0.5,
+    "capex_to_sales": 0.003815912641584873,
+    "dep_to_ppe": 0.1846926063299179,
+    "cash_min_to_sales": 0.020860379561781883,
+    "r_st": 0.19514299929141998,
+    "r_lt": 0.16106504201889038,
+    "tax_rate": 0.39266437292099,
+    "payout": 0.7221540808677673
+  },
+  "fit_info": {
+    "fit_mode_used": "tf",
+    "loss": 5.752468585968018,
+    "epoch": 2499,
+    "note": "",
+    "loss_mode": "relative"
+  }
+}

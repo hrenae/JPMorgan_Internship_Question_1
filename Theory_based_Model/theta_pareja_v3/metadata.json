@@ -1,0 +1,25 @@
+{
+  "DATA_DIR": "data_tsrl_annual_v3",
+  "FREQ": "A",
+  "TRAIN_FRAC_WITHIN_TICKER": 0.8,
+  "FIT_MODE": "auto",
+  "TF_EPOCHS": 2500,
+  "TF_LR": 0.005,
+  "MIN_TF_TRAIN": 30,
+  "TF_LOSS_MODE": "relative",
+  "EXCLUDE_TEST_FROM_TRAIN": true,
+  "RANDOM_SEED": 0,
+  "report_tickers": [
+    "0700.HK",
+    "9988.HK",
+    "BABA",
+    "GOOG",
+    "GOOGL",
+    "JPM",
+    "MSFT",
+    "TCEHY",
+    "VOW3.DE",
+    "VWAGY",
+    "XOM"
+  ]
+}
