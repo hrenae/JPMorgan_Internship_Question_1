@@ -67,6 +67,19 @@ python test_forecast_companies_rolling_skip_llm.py `
     "./llm_rollout_inputs/XOM/XOM_LLM_prompt_GPT.md" `
     "./llm_rollout_inputs/XOM/XOM_LLM_prompt_Gemini.md"
 
+### 4. LLMPDF
+Here you can find the file Gemini which means this part is based on Gemini3Pro. The script annual_report_pipeline_Gemini.py can generate the tokens.md and answer.md based on specific pdf files. Before running it, you should use 
+
+$env:GOOGLE_API_KEY = "Your_Gemini_API_Key"
+
+to finish the setup (Here is for Windows Powershell, for Linux, using 'export' instead). Then, running the script by:
+
+python annual_report_pipeline_Gemini.py --pdf 2023GM_annual_report.pdf --model gemini-3-pro-preview
+
+python annual_report_pipeline_Gemini.py --pdf ./LVMH/lvmh_Financialdocuments-December31%2C2024.pdf --model gemini-3-pro-preview
+
+A deepseek version is also avilable according to your request.
+
 ---
 
 ### Key Notes
