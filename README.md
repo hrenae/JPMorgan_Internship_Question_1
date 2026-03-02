@@ -1,10 +1,8 @@
-<img width="2816" height="1536" alt="unwatermarked_Gemini_Generated_Image_4usqx24usqx24usq" src="https://github.com/user-attachments/assets/a35fe1c7-50be-437d-9ee1-afc9cef96b40" /><img width="2816" height="1536" alt="unwatermarked_Gemini_Generated_Image_4usqx24usqx24usq" src="https://github.com/user-attachments/assets/a35fe1c7-50be-437d-9ee1-afc9cef96b40" /># TFT Accounting Forecasting Package
+# TFT Accounting Forecasting Package
 
 A refactored Python package for accounting-aware financial statement forecasting.
 
 <img width="2816" height="1536" alt="unwatermarked_Gemini_Generated_Image_4usqx24usqx24usq" src="https://github.com/user-attachments/assets/33d12122-0eb0-4c4a-8c9e-3e87649bcc59" />
-<img width="2816" height="1536" alt="unwatermarked_Gemini_Generated_Image_4usqx24usqx24usq" src="https://github.com/user-attachments/assets/33d12122-0eb0-4c4a-8c9e-3e87649bcc59" />
-
 
 
 This repository reorganizes the original internship codebase into a package-oriented, object-oriented structure and uses TensorFlow for the core model, training, and inference components. The project supports three complementary forecasting pipelines:
