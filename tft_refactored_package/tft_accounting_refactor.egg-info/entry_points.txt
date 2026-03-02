@@ -1,6 +1,0 @@
-[console_scripts]
-tft-backtest = tft_accounting.backtesting:main
-tft-plot = tft_accounting.plotting:main
-tft-preprocess = tft_accounting.preprocessing:main
-tft-theory = tft_accounting.theory:main
-tft-train = tft_accounting.training:main
